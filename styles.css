@@ -1,0 +1,14 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: justify;
+}
+p {
+    color: brown;
+    text-align: justify;
+}
